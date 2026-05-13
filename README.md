@@ -38,7 +38,7 @@ This project is an automated Excel-based student report sheet designed for teach
 •	IF 
 
 
-**Features**
+# Features
 
 Student Information Section
 
@@ -123,7 +123,7 @@ Example:
 •	3rd 
 
 
-**Excel Functions Used**
+# Excel Functions Used
 
 Function	Purpose
 
@@ -141,14 +141,14 @@ RANK	    Position in class
 
 IF	        Pass/Fail logic
 
-Images/Screenshoots
+# Images/Screenshoots
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/1c8899be-f3ae-46f3-bcf7-e44eb87096fb" />
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/12438e71-e1d6-4774-8399-7be015b1f919" />
 
 
-**Sample Formulas**
+# Sample Formulas
 
-Average Score
+**Average Score**
 
 =AVERAGE(B8:B14)
 
@@ -177,14 +177,14 @@ Sheet2 → Report Card
 Sheet3 → Reference Tables
 
 
-**Requirements**
+# Requirements
 
 •	Microsoft Excel 2016 or later 
 
 •	Basic understanding of Excel formulas 
 
-**Future Improvements
-**
+# Future Improvements
+
 Possible upgrades:
 
 •	Dashboard analytics 
